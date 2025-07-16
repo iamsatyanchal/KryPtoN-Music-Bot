@@ -6,3 +6,4 @@ python-arq
 Pyrogram
 TgCrypto
 youtube_dl
+aiohttp>=3.12.14 # not directly required, pinned by Snyk to avoid a vulnerability
